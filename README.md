@@ -11,4 +11,4 @@ This is my first GitHub repository created for a school assignment.
 - 🧩 Basic Markdown formatting
 
 ## 😄 Fun Fact About Me
-🏀 I can dunk a basketball on a 10ft rim!
+🏀 I can dunk a basketball on a 10ft rim! 💪
